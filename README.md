@@ -1,6 +1,6 @@
 # z180_SBC_ISP_Adapter
 
-Adapter board between s100computers' z180 SBC board and z80-Retro! in-system programmer
+Adapter board between s100computers' z180 SBC board and the z80-Retro! in-system programmer
 
 ![Connected adapter on z180 SBC board](./images/Overview_Small.jpg)
 
