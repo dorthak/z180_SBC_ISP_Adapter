@@ -1,4 +1,4 @@
-# z180ISPAdapter
+# z180_SBC_ISP_Adapter
 Adapter board between s100computers z180 SBC board and z80-Retro! in-system programmer
 
 This adapter is designed to be placed between the ROM socket of the s100Computers z180 SBC board (https://s100computers.com/My%20System%20Pages/Z180%20SBC/Z180%20SBC1.htm) and the z80-Retro! in-system programmer (https://github.com/Z80-Retro/2065-Z80-programmer) to allow in-system programming of a ROM.  
